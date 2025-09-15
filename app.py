@@ -62,3 +62,12 @@ print(f"Swapped values: a = {e} b = {k}")
 import random
 print(f"random no: {random.randint(1,3)}")
 '''
+
+
+#kilometers to miles (1 kilometers = 0.621371 miles)
+'''
+kilometers = float(input("Enter a distance in Kilometers:"))
+conv = 0.621371
+miles = kilometers * conv
+print(f" {kilometers} Kilometers is = {miles} Miles")
+'''
