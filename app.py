@@ -11,8 +11,15 @@ print(f"Addition Results of {num1} + {num2} =  {sum_result}")
 
 
 '''
+
+'''
 num1 = int(input("Enter a number:")) 
 num12 = int(input("Enter a number: "))
 
 result = num1 ** num12
 print(f"Results of {num1} ** {num12} = {result}   ") 
+
+
+'''
+
+
