@@ -21,5 +21,18 @@ print(f"Results of {num1} ** {num12} = {result}   ")
 
 
 '''
+'''
+num3 = int(input("Enter the first number for division : "))
+num4 = int(input("Enter the second number for division :"))
+
+if num4 == 0:
+  print("Error! : Division by zero is not possible")
+else:
+  result = num3 / num4
+  print(f"Division: {num3} / {num4} = {result}")
+
+'''
+
+
 
 
