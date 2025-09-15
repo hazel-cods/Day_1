@@ -79,3 +79,14 @@ fahrenheit = (celsius * 9/5) + 32
 
 print(f" {celsius} degrees celsius is {fahrenheit} Fahrenheit")
 '''
+
+
+#swap numbers using (x,y )
+'''
+x = input("Enter a number for x : ")
+y = input("Enter a number for y :")
+print(f"Before: x = {x}, y = {y}")
+
+x , y = y , x
+print(f"After: x = {x}, y = {y}")
+'''
