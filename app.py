@@ -57,3 +57,8 @@ print(f"Swapped values: a = {e} b = {k}")
 
 '''
 
+#random numbers
+'''
+import random
+print(f"random no: {random.randint(1,3)}")
+'''
